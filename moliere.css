@@ -24,6 +24,9 @@
 .nicole{
     color: aquamarine;
 }
+.dorante{
+    color: aquamarine;
+}
 table,th,td {
     border: 1px solid black;
     border-collapse: collapse;
@@ -34,5 +37,9 @@ table,th,td {
 }
 tr:nth-child(odd){
     background-color:antiquewhite;
+}
+.name:hover {
+        text-shadow:2px 2px 5px greenyellow;
+        border: 2px dashed rebeccapurple
 }
 
